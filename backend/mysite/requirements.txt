@@ -108,7 +108,7 @@ tornado==6.0.3
 tqdm==4.46.1
 traitlets==4.3.2
 urllib3==1.25.3
-uvicorn==0.11.3
+uvicorn==0.11.7
 visions==0.4.4
 wcwidth==0.1.7
 webencodings==0.5.1
