@@ -47,16 +47,13 @@ This is the problem given by Ministry of Textiles in SIH-2020 software edition i
 
 # Our End Users
 
-1.Farmers
-They can easily get an idea when to sell their surplus at what rate.
- 
- What would be their net price including all taxes and transportation cost in some other city or state 
+**Farmers**
+    -They can easily get an idea when to sell their surplus at what rate.
+    -What would be their net price including all taxes and transportation cost in some other city or state 
 
-2.Industrialists.
-
- Easily compute their net profit 
-
- Develop their marketing strategy for the next commercial year i.e. when and from where to buy their raw materials.
+**Industrialists**
+    -Easily compute their net profit 
+    -Develop their marketing strategy for the next commercial year i.e. when and from where to buy their raw materials.
 
 # How our model is working
 
