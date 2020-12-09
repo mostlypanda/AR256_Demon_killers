@@ -30,20 +30,20 @@ This is the problem given by Ministry of Textiles in SIH-2020 software edition i
     -Django (a framework of python) and MongoDB as our database
 
 **Machine Learning Models**
-    -Non-Linear Random Forest Regression model for day wise future trend.
-    -Arima model for full year trend
+    * Non-Linear Random Forest Regression model for day wise future trend.
+    * Arima model for full year trend
 
 **Factors considered in ML Model:**
 
 * In Non-Linear Random Forest Regression Model
- Yield 
- Area Sown
- Inflation Rate
- Date 
- Month
+    * Yield 
+    * Area Sown
+    * Inflation Rate
+    * Date 
+    * Month
 
 * In Arima Model
-  Time based analysis done here on available past year data.
+    * Time based analysis done here on available past year data.
 
 # Our End Users
 
@@ -61,23 +61,23 @@ This is the problem given by Ministry of Textiles in SIH-2020 software edition i
 
 # How our model is working
 
- 1.Our Random forest model is able to discover more complex dependencies. 
+ * Our Random forest model is able to discover more complex dependencies. 
 
- 2.It is the sum of piecewise function and has regularization inbuilt.
+ * It is the sum of piecewise function and has regularization inbuilt.
 
- 3.In our time-series analysis model(arima), we are minimizing irregularity by implementing operations like logscale and exponential weighted moving average.
+ * In our time-series analysis model(arima), we are minimizing irregularity by implementing operations like logscale and exponential weighted moving average.
 
- 4.Our model is giving RSS value around 0.32 and p value around 0.002 which is quite appreciable.
+ * Our model is giving RSS value around 0.32 and p value around 0.002 which is quite appreciable.
 
- 5.We are getting an order of (1,1,1) for our arima model
+ * We are getting an order of (1,1,1) for our arima model
 
 # Conclusion
 
- 1.This with the help of our web-application one can see the future trend of cotton in major market places of cotton in the nation, both day-wise and month-wise trend for the    next one year.
+* This with the help of our web-application one can see the future trend of cotton in major market places of cotton in the nation, both day-wise and month-wise trend for the    next one year.
 
- 2. For both buyers and for sellers we are increasing market place area by getting them know about the future cost of cotton at their door-step.
+* For both buyers and for sellers we are increasing market place area by getting them know about the future cost of cotton at their door-step.
 
- 3.Our interaction user-interface will fascinate the user as well.
+* Our interaction user-interface will fascinate the user as well.
 
 
 
