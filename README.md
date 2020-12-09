@@ -78,10 +78,5 @@ They can easily get an idea when to sell their surplus at what rate.
 
 3.Our interaction user-interface will fascinate the user as well.
 
-# Demo Link
-```
-https://wocn-demon.web.app
-```
-
 
 
