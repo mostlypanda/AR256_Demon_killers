@@ -23,13 +23,13 @@ This is the problem given by Ministry of Textiles in SIH-2020 software edition i
 
 ### Technology Stack
 
-*For client side
+**For client side**
     -React.js with bootstrap and axios for data transfer
 
-*For server side
+**For server side**
     -Django (a framework of python) and MongoDB as our database
 
-*Machine Learning Models
+**Machine Learning Models**
     -Non-Linear Random Forest Regression model for day wise future trend.
     -Arima model for full year trend
 
