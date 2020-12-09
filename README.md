@@ -1,7 +1,12 @@
 # AR256_Demon_Killers(Cotton future market trend prediction)
 
 ## Available live at https://wocn-demon.web.app 
-
+![Languages](https://img.shields.io/github/languages/count/mostlypanda/AR256_Demon_killers?style=plastic)
+![Issues](https://img.shields.io/github/issues/project-park/project-park?style=plastic)
+![Code-Size](https://img.shields.io/github/languages/code-size/project-park/project-park?style=plastic)
+![License](https://img.shields.io/badge/license-personal-purple?style=plastic)
+![Release](https://img.shields.io/github/v/release/project-park/project-park?style=plastic)
+![Completion](https://img.shields.io/badge/Project%20Phase-Adding%20New%20Ideas-blue?style=plastic)
 
 # SIH-2020(Software Edition)
 
