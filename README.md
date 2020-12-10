@@ -4,9 +4,9 @@
 ![Languages](https://img.shields.io/github/languages/count/mostlypanda/AR256_Demon_killers?style=plastic)
 ![Issues](https://img.shields.io/github/issues/mostlypanda/AR256_Demon_killers?style=plastic)
 ![Code-Size](https://img.shields.io/github/languages/code-size/mostlypanda/AR256_Demon_killers?style=plastic)
-![License](https://img.shields.io/badge/MIT?style=plastic)
+![License](https://img.shields.io/badge/license-MIT-purple?style=plastic)
 ![Release](https://img.shields.io/github/v/release/mostlypanda/AR256_Demon_killers?style=plastic)
-![Future scope](https://img.shields.io/github/v/release/mostlypanda/AR256_Demon_killers?style=plastic)
+![Completion](https://img.shields.io/badge/Project%20Phase-Updating%20Past%20Price%20data-blue?style=plastic)
 
 
 # SIH-2020(Software Edition)
