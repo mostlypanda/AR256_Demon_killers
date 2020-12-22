@@ -7,6 +7,7 @@
 ![License](https://img.shields.io/badge/license-MIT-purple?style=plastic)
 ![Completion](https://img.shields.io/badge/Project%20Phase-Updating%20Past%20Price%20data-blue?style=plastic)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mostlypandaa&repo=AR256_Demon_killers)](https://github.com/anuraghazra/github-readme-stats)
 
 # SIH-2020(Software Edition)
 
