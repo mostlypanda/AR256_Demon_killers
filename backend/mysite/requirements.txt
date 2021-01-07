@@ -43,7 +43,7 @@ jupyter-console==6.0.0
 jupyter-core==4.5.0
 kiwisolver==1.1.0
 llvmlite==0.32.1
-lxml==4.5.0
+lxml==4.6.2
 MarkupSafe==1.1.1
 matplotlib==3.2.1
 missingno==0.4.2
