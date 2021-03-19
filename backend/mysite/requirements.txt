@@ -67,7 +67,7 @@ parso==0.5.1
 patsy==0.5.1
 phik==0.10.0
 pickleshare==0.7.5
-Pillow==7.0.0
+Pillow==8.1.1
 prometheus-client==0.7.1
 prompt-toolkit==2.0.9
 pydantic==1.4
