@@ -84,7 +84,7 @@ pyttsx3==2.71
 pytz==2019.1
 PyWavelets==1.1.1
 pywinpty==0.5.5
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==18.1.0
 qtconsole==4.5.5
 Quandl==3.5.0
