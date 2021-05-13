@@ -70,7 +70,7 @@ pickleshare==0.7.5
 Pillow==7.0.0
 prometheus-client==0.7.1
 prompt-toolkit==2.0.9
-pydantic==1.4
+pydantic==1.6.2
 Pygments==2.4.2
 PyJWT==1.7.1
 pymongo==3.10.1
